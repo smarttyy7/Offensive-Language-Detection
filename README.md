@@ -50,6 +50,7 @@ The plot below shows how close the model’s predictions are to the actual value
 
 This section demonstrates how the trained model classifies text inputs as **Offensive** or **Non-Offensive**.
 
-
+![Actual vs Predicted Values](images/offensive.PNG)
+![Actual vs Predicted Values](images/non-offensive.PNG)
 
 
